@@ -1,3 +1,3 @@
 # GittoTest
-test of master
+test of master and fx
 
